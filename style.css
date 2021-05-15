@@ -1,0 +1,21 @@
+body
+{
+color: aqua;
+background: rgb(0, 0, 0);
+}
+.heading
+{
+width: 80%;
+font-size: 25px;
+color: salmon;
+}
+#camera
+{
+border: 2px dashed indigo;
+width: 350px;
+height: 300px;
+}
+.name_of_objects, #result_object_name,#result_object_accuracy
+{
+    color:red;
+}
